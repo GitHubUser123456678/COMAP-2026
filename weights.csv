@@ -1,0 +1,13 @@
+criterion,w_prior,ridge_coef,sign_stability,w_evidence,w_revised
+seda_test_score_gcs,0.0833,0.2991,1.0,0.3599,0.1663
+violent_crime_per_100k,0.0833,0.2714,1.0,0.3265,0.1563
+ap_courses_per_offering_school,0.0833,0.0898,1.0,0.108,0.0907
+child_poverty_rate,0.0833,0.0732,1.0,0.088,0.0847
+pct_teen_disconnected,0.0833,0.0573,1.0,0.0689,0.079
+pct_u18_computer_broadband,0.0833,0.0405,1.0,0.0487,0.0729
+per_pupil_spending_usd,0.0833,-0.1939,1.0,0.0,0.0583
+teen_employment_rate,0.0833,-0.1626,1.0,0.0,0.0583
+alltransit_score,0.0833,-0.0531,1.0,0.0,0.0583
+pct_kids_10min_walk_park,0.0833,-0.1839,1.0,0.0,0.0583
+library_visits_per_capita,0.0833,0.0057,0.86,0.0,0.0583
+pct_freq_mental_distress,0.0833,-0.0292,0.99,0.0,0.0583
